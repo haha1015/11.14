@@ -4,4 +4,9 @@ num2 = 2
 
 num3 = 3
 
+<<<<<<< HEAD
 num4 = 4444hg4h4
+=======
+num4 = 44444
+
+>>>>>>> 91cc82a076e72397f6cefbaaafebfbbd0ff3e103
